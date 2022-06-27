@@ -1,2 +1,2 @@
-# DINO-MOD2-IPA1
-DINO-MOD2-IPA1
+# mod-2-ipa-1
+mod-2-ipa-1
